@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+
+storage/project_memory.json
+storage/repository_context.json
+
+.idea/
+.vscode/
+
+.env
